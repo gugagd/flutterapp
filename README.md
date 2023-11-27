@@ -1,6 +1,6 @@
-# meuapp
+#FlutterAPP
 
-A new Flutter project.
+App em Flutter desenvolvido na aula de Desenvolvimento Mobile III do curso ADS da UPF.
 
 ## Getting Started
 
